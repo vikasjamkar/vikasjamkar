@@ -7,7 +7,7 @@
 - 🎓 Final-year MCA student | Fresher Web Developer
 - 💻 Passionate about **React, Node.js, and MongoDB**
 - 🚀 Currently working on a **full-stack eCommerce web app**
-- 📫 How to reach me: **vikasjamkar2001@gmail.com**r
+- 📫 How to reach me: **vikasjamkar2001@gmail.com**
 
 ---
 
@@ -47,8 +47,8 @@
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/vikas-jamkar/)  
-[![Portfolio](https://vikasfolio.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-jamkar/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white)](https://vikasfolio.vercel.app/) 
 
 ---
 
