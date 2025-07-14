@@ -22,27 +22,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
-
-### 📂 Featured Projects
-#### 🛒 [E-Commerce Website](https://github.com/yourusername/ecommerce-project)
-**Tech Stack:** React, Node.js, Express, MongoDB, Bootstrap
-- A full-stack eCommerce web app with user authentication & payment integration.
-
-#### 🌦 [Weather App](https://github.com/yourusername/weather-app)
-**Tech Stack:** HTML, CSS, JavaScript, Bootstrap
-- A web app to fetch real-time weather data using OpenWeather API.
-
-#### 📊 [Product Table with Filters](https://github.com/yourusername/product-table)
-**Tech Stack:** React, Bootstrap
-- A dynamic product table with filtering, pagination, and infinite scrolling.
-
----
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-jamkar/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white)](https://vikasfolio.vercel.app/) 
-
----
-
-### 🎯 Let's Build Something Amazing Together! 🚀
